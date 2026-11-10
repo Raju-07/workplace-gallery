@@ -1,0 +1,4 @@
+#Tue Nov 10 20:44:17 IST 2026
+base.0=/home/rajuy/Desktop/workplace-gallery/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.workplacegallery.app-mergeReleaseResources-31:/layout/item_gallery_image.xml",
+        "source": "com.example.workplacegallery.app-main-34:/layout/item_gallery_image.xml"
+    },
+    {
+        "merged": "com.example.workplacegallery.app-mergeReleaseResources-31:/layout/item_gallery_grid_photo.xml",
+        "source": "com.example.workplacegallery.app-main-34:/layout/item_gallery_grid_photo.xml"
+    },
+    {
+        "merged": "com.example.workplacegallery.app-mergeReleaseResources-31:/layout/activity_gallery.xml",
+        "source": "com.example.workplacegallery.app-main-34:/layout/activity_gallery.xml"
+    },
+    {
+        "merged": "com.example.workplacegallery.app-mergeReleaseResources-31:/layout/item_grid_photo.xml",
+        "source": "com.example.workplacegallery.app-main-34:/layout/item_grid_photo.xml"
+    },
+    {
+        "merged": "com.example.workplacegallery.app-mergeReleaseResources-31:/layout/item_gallery_header.xml",
+        "source": "com.example.workplacegallery.app-main-34:/layout/item_gallery_header.xml"
+    },
+    {
+        "merged": "com.example.workplacegallery.app-mergeReleaseResources-31:/layout/item_date_header.xml",
+        "source": "com.example.workplacegallery.app-main-34:/layout/item_date_header.xml"
+    },
+    {
+        "merged": "com.example.workplacegallery.app-mergeReleaseResources-31:/layout/activity_main.xml",
+        "source": "com.example.workplacegallery.app-main-34:/layout/activity_main.xml"
+    }
+]
